@@ -19,4 +19,4 @@ The To-Do List Application is a simple web app that allows users to create, edit
 - Basic understanding of HTML, CSS, and JavaScript is beneficial but not mandatory.
 -
 - ### Installation 1.
-- Clone the repository: ```bash git clone https://github.com/vahidghahremany/todo-list-app.git
+- Clone the repository: ```bash git clone https://github.com/vahidghahremany/TO-DO-list.git
